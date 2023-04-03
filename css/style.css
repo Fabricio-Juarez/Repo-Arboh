@@ -73,27 +73,18 @@ h1{
     margin-right: 20px;
     
 }
-
+.contenedor-po{
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-right: 10px;
+    padding: 10px;
+}
 /* termina el footer*/
 
 
 /* resposive*/
 
 /* grid*/
-.grid-temple-columns-row{
-    grid-template-columns: repeat(3,31%);
-    grid-template-rows: repeat(3,31%);
-   column-gap: 3%;
-   row-gap: 3%;
-}
-.template-areas{
-    grid-template-columns: repeat(3,25%);
-    grid-template-rows: repeat(3,25%);
-    grid-template-areas: 
-    "div div div"
-    "div div div"
-    "div div div"
-    "li  li  li";
-}
+
 
 /*responsive*/
