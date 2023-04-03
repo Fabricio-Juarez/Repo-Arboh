@@ -40,32 +40,7 @@ h1{
 /* termina la nav*/ 
 
 /* comienbza el main*/
-.segunda{
-    display: inline;  
-    margin: auto
-}
 
-    
-.header{
-    text-align: center;
-    padding: 15px;
-    margin: 15px;
-}
-header img{
-    width: 100%;
-    text-align: center;
-}
-.contenedor{
-    width: 100%;
-    margin: auto;
-}
-.img{
-    display: inline-block;
-}
-.main{
-    display: inline-block;
-    background-position: center;
-}
 /* termina el main*/
 
 /* comienza el footer*/
@@ -80,13 +55,7 @@ header img{
 
 
 /* resposive*/
-
 /* grid*/
-
-.grid{
-    width: 100%;
-    display: grid;
-}
 .grid-temple-columns-row{
     grid-template-columns: repeat(3,31%);
     grid-template-rows: repeat(3,31%);
@@ -102,3 +71,5 @@ header img{
     "div div div"
     "li  li  li";
 }
+
+/*responsive*/
