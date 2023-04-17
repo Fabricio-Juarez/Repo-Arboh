@@ -47,6 +47,10 @@ h1{
     color: rgb(244, 244, 244) 
 
 }
+.carrito{
+  text-decoration: none;
+ font-size: 10px;
+}
 /* termina la nav*/ 
 
 /* comienbza el main*/
