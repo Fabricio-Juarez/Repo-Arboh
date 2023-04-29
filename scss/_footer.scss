@@ -1,0 +1,28 @@
+@import "_vars";
+@import "_commons";
+
+
+.footer{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+   
+    
+    .contenedor-position{
+        margin-right: 20px;
+        
+    }
+    .contenedor-po{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-right: 10px;
+        padding: 10px;
+    }
+    .my-link-class {
+        text-decoration: none;
+        outline: none;
+      }
+}

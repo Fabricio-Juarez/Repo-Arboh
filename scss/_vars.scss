@@ -4,10 +4,17 @@ $maincolor:black;
 $secondarycolor: white;
 $keycolor: yellow;
 
-//fonts
 $mainfonts: Arial, sans-serif;
-$textg: 4em;
- 
+$textg: 3em;
+$textmd:25px;
+$texta:center;
+$textd: none;
+$imgt:300px;
+$paddingc: 40px;
+
+
 body{
-    
+    background-color: $secondarycolor;
+    font-family: $mainfonts;
 }
+

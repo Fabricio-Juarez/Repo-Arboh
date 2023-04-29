@@ -1,0 +1,23 @@
+@import "_vars";
+@import "_commons";
+@import "_footer";
+
+.botonera{
+    background-color: $secondarycolor;
+    img{
+        width: $imgt;
+    }
+
+
+        ul{
+            li{
+                a{
+                    color: $maincolor;
+                    text-decoration: $textd;
+                    font-size: $textmd;
+                }
+            }
+
+           
+        }
+}
